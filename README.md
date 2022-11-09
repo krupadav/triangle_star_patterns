@@ -1,0 +1,1 @@
+# triangle_star_patterns
